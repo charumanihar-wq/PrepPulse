@@ -26,7 +26,7 @@ PrepPulse helps identify strengths, gaps, and next steps **before** facing recru
 - Streamlit
 
 ## Demo Video
-👉 **(Link will be added here)**
+https://youtu.be/cf1dXShJuGM
 
 ## How to Run Locally
 ```bash
