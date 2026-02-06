@@ -42,7 +42,7 @@ if score < 40:
 elif score < 70:
     st.write("⏳ ~4–6 weeks with mock interviews and revision")
 else:
-    st.write("✅ Ready now — continue light practice")
+    st.write("Ready now — continue light practice")
 
     st.subheader("Suggestions")
     if tech < 6:
